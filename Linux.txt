@@ -1,0 +1,12 @@
+Linux Basics
+
+Linux is an open-source operating system used widely in servers and DevOps environments.
+
+Key Features:
+- Free and open source
+- Secure and stable 
+- Supports multiple users
+- Used in servers, cloud, and containers
+
+Common Commands:
+- pwd : Shows current directory
